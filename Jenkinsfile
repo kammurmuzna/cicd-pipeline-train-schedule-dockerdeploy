@@ -57,4 +57,3 @@ pipeline {
         }
     }
 }
-{"mode":"full","isActive":false}
